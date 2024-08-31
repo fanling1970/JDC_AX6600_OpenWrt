@@ -65,10 +65,11 @@ echo "CONFIG_PACKAGE_luci-lib-docker=y"  >> ./.config
 echo "CONFIG_PACKAGE_luci-app-dockerman=y"  >> ./.config
 echo "CONFIG_PACKAGE_luci-i18n-dockerman-zh-cn=y"  >> ./.config
 
-#echo "CONFIG_PACKAGE_linkease=y"  >> ./.config
+echo "CONFIG_PACKAGE_linkease=y"  >> ./.config
 #echo "CONFIG_PACKAGE_ffmpeg-remux=y"  >> ./.config
 #echo "CONFIG_PACKAGE_linkmount=y"  >> ./.config
-#echo "CONFIG_PACKAGE_luci-app-linkease=y"  >> ./.config
+echo "CONFIG_PACKAGE_luci-app-linkease=y"  >> ./.config
+echo "CONFIG_PACKAGE_luci-app-quickstart=y"  >> ./.config
 
 #echo "CONFIG_PACKAGE_luci-theme-netgear=y"  >> ./.config
 
