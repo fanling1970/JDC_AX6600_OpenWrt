@@ -5,6 +5,7 @@
 echo "CONFIG_PACKAGE_luci-app-store=y"  >> ./.config
 
 echo "CONFIG_PACKAGE_luci-app-ssr-plus=y"  >> ./.config
+echo "CONFIG_PACKAGE_luci-i18n-ssr-plus-zh-cn=y"  >> ./.config
 echo "CONFIG_PACKAGE_cpufreq=y"  >> ./.config
 echo "CONFIG_PACKAGE_luci-app-accesscontrol=y"  >> ./.config
 echo "CONFIG_PACKAGE_luci-app-cpufreq=y"  >> ./.config
